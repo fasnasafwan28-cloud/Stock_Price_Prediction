@@ -115,8 +115,8 @@ Users can download stock data as CSV.
 ## 📸 Application Screenshots
 
 ### 🏠 Home Page
+<img width="1641" height="557" alt="home_page png" src="https://github.com/user-attachments/assets/e7124082-cc82-400b-83df-036d6a4c9852" />
 
-<img width="1641" height="557" alt="home_page png" src="https://github.com/user-attachments/assets/fa5c4bb8-8d4e-455d-94bf-921d3c413031" />
 
 
 
