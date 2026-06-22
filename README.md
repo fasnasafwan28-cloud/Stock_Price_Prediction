@@ -115,25 +115,16 @@ Users can download stock data as CSV.
 ## 📸 Application Screenshots
 
 ### 🏠 Home Page
-<img width="1641" height="557" alt="home_page png" src="https://github.com/user-attachments/assets/e7124082-cc82-400b-83df-036d6a4c9852" />
-
-
-
+![Home Page](home_page.png.png)
 
 ### 📊 EMA Analysis Dashboard
-
-<img width="1486" height="745" alt="ema_analysis png" src="https://github.com/user-attachments/assets/ba4a7ec6-2607-4ae0-98c6-875d2522c730" />
-
+![EMA Analysis Dashboard](ema_analysis.png.png)
 
 ### 📈 Stock Prediction Chart
-
-
-<img width="1645" height="836" alt="stock_prediction png" src="https://github.com/user-attachments/assets/19e46c67-e0aa-40b8-99f3-f458942ea83f" />
-
+![Stock Prediction Chart](stock_prediction.png.png)
 
 ### 📥 Dataset Download Feature
-
-<img width="1640" height="844" alt="dataset_download png" src="https://github.com/user-attachments/assets/55d2979c-fa84-40d2-9b2e-bfd9f130a76f" />
+![Dataset Download Feature](dataset_download.png.png)
 
 
 ---
