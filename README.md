@@ -115,16 +115,16 @@ Users can download stock data as CSV.
 ## 📸 Application Screenshots
 
 ### 🏠 Home Page
-![Home Page](home_page.png.png)
+home_page.png
 
 ### 📊 EMA Analysis Dashboard
-![EMA Analysis Dashboard](ema_analysis.png.png)
+ema_analysis.png
 
 ### 📈 Stock Prediction Chart
-![Stock Prediction Chart](stock_prediction.png.png)
+stock_prediction.png
 
 ### 📥 Dataset Download Feature
-![Dataset Download Feature](dataset_download.png.png)
+dataset_download.png
 
 
 ---
